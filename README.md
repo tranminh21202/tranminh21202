@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Minh Tran</h1>
 <h3 align="center">A baby chicken want to be a professional hackerlord</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
